@@ -1,0 +1,4 @@
+#Mon Dec 10 17:59:56 ICT 2018
+base.0=C\:\\Personal\\AndroidCleanArchMVVM\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
